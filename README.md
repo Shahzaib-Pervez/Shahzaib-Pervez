@@ -47,9 +47,7 @@
 <!-- GITHUB CONTRIBUTION SKYLINE -->
 <div align="center">
 
-## `::Contribution Snake::`
 
-![snake gif](https://github.com/Shahzaib-Pervez/Shahzaib-Pervez/blob/output/github-snake-dark.svg)
 
 </div>
 
